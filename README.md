@@ -5,5 +5,3 @@
 A simple calculator made using the Tkinter python module.
 
 --------------------------------------------------------
-
-Features: Addition, Multiplication, Substraction, Division, Percentage
